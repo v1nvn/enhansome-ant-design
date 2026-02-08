@@ -314,7 +314,7 @@
             "last_commit": "2026-02-06T15:20:50Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9144
+            "stars": 9145
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-02-02T23:15:24Z",
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21378
+            "stars": 21381
           }
         },
         {
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-06T21:33:39Z",
+            "last_commit": "2026-02-07T19:58:17Z",
             "owner": "stsrki",
             "repo": "Blazorise",
             "stars": 3507
@@ -968,7 +968,7 @@
             "last_commit": "2023-01-27T10:20:56Z",
             "owner": "YDJ-FE",
             "repo": "ts-react-webpack",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2025-11-21T03:56:03Z",
             "owner": "ant-design",
             "repo": "ant-design-icons",
-            "stars": 1058
+            "stars": 1060
           }
         },
         {
@@ -1152,10 +1152,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:28:42.132Z",
+    "last_updated": "2026-02-08T04:28:01.363Z",
     "original_repository": "websemantics/awesome-ant-design",
     "source_repository": "v1nvn/enhansome-ant-design",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Untitled"
   }
 }
