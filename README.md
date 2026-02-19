@@ -19,7 +19,7 @@
 
 > A curated list of [Ant Design](http://ant.design/) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,153 | 🐛 70 | 📅 2026-01-28
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,407 | 🐛 71 | 📅 2026-01-28
 [<img src="https://camo.githubusercontent.com/2f393ed1a4c6d222de314c16e0334301cae3fb7a/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e7376673f73616e6974697a653d74727565" align="right" width="160">](https://ant.design/)
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
@@ -67,7 +67,7 @@ Official projects and resources of Ant Design.
 These are tools and utilities to help build apps using Ant Design,
 
 * [Dva Cli](https://github.com/dvajs/dva-cli) ⭐ 965 | 🐛 67 | 🌐 JavaScript | 📅 2019-03-17 - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva) ⭐ 16,207 | 🐛 28 | 🌐 JavaScript | 📅 2025-08-06, a
-  lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo) ⭐ 6,770 | 🐛 44 | 🌐 JavaScript | 📅 2020-01-23.
+  lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo) ⭐ 6,769 | 🐛 44 | 🌐 JavaScript | 📅 2020-01-23.
 * [Antd Init](https://github.com/ant-design/antd-init) ⚠️ Archived - Ant Design boilerplate generator (for demo only, use dva-cli).
 * [formik-antd](https://github.com/jannikbuschke/formik-antd) ⭐ 588 | 🐛 48 | 🌐 TypeScript | 📅 2024-11-11 - Declarative bindings for the popular form state management library Formik.
 * [vscode-antd-rush](https://github.com/fi3ework/vscode-antd-rush) ⭐ 124 | 🐛 9 | 🌐 TypeScript | 📅 2023-01-07 - Rush to Ant Design in VS Code
@@ -99,7 +99,7 @@ Here are utilities that can help you customize your theme and ability to change 
 
 Ant Design family of projects.
 
-* [Ant Design X](https://github.com/ant-design/x) ⭐ 4,308 | 🐛 114 | 🌐 TypeScript | 📅 2026-02-15 - A React UI library @ant-design/x that Crafting AI-driven interfaces with React, seamlessly integrating smart chat components and API services at your fingertips.
+* [Ant Design X](https://github.com/ant-design/x) ⭐ 4,308 | 🐛 111 | 🌐 TypeScript | 📅 2026-02-15 - A React UI library @ant-design/x that Crafting AI-driven interfaces with React, seamlessly integrating smart chat components and API services at your fingertips.
 * [Ant Design Web3](https://github.com/ant-design/ant-design-web3) ⭐ 1,125 | 🐛 33 | 🌐 TypeScript | 📅 2026-02-11 - Efficient react components for building dapps easier | Connect crypto wallets and more Web3 UI components | Web3 icons | Supports Ethereum, Solana, Bitcoin, TON, Sui and others.
 * [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more](https://github.com/antvis/feedback) ⭐ 124 | 🐛 83 | 📅 2017-12-15).
 * [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more](https://github.com/antvis/feedback) ⭐ 124 | 🐛 83 | 📅 2017-12-15).
@@ -110,7 +110,7 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,144 | 🐛 821 | 🌐 TypeScript | 📅 2026-02-14 - Ant Design of Angular.
+* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,146 | 🐛 825 | 🌐 TypeScript | 📅 2026-02-14 - Ant Design of Angular.
 * [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) ⭐ 807 | 🐛 60 | 🌐 TypeScript | 📅 2024-08-09 - Ant Design Mobile of Angular
 * [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
@@ -118,7 +118,7 @@ Projects that are built with Angular and Ant Design.
 
 Projects that are built with Vue.js and Ant Design.
 
-* [ant-design-vue](https://github.com/vueComponent/ant-design-vue) ⭐ 21,383 | 🐛 154 | 🌐 Vue | 📅 2026-02-17 - Ant Design of Vue.js 2.5.0+.
+* [ant-design-vue](https://github.com/vueComponent/ant-design-vue) ⭐ 21,383 | 🐛 150 | 🌐 Vue | 📅 2026-02-17 - Ant Design of Vue.js 2.5.0+.
 * [vue-antd-admin](https://github.com/iczer/vue-antd-admin) ⭐ 3,688 | 🐛 99 | 🌐 Vue | 📅 2024-05-08 - Ant Design Pro's implementation with Vue
 * [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) ⭐ 2,105 | 🐛 63 | 🌐 JavaScript | 📅 2024-03-06 - Beautiful UI components build with Vue.js and Ant Design.
 * [antue](https://github.com/zzuu666/antue) ⭐ 257 | 🐛 1 | 🌐 CSS | 📅 2019-02-18 - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
@@ -129,7 +129,7 @@ Projects that are built with Vue.js and Ant Design.
 
 Projects that are built with Blazor WebAssembly and Ant Design.
 
-* [Blazorise](https://github.com/stsrki/Blazorise) ⭐ 3,510 | 🐛 204 | 🌐 C# | 📅 2026-02-17 - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
+* [Blazorise](https://github.com/stsrki/Blazorise) ⭐ 3,511 | 🐛 203 | 🌐 C# | 📅 2026-02-18 - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
 * [ant-design-blazor](https://github.com/ElderJames/ant-design-blazor) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2024-08-20 - Ant Design of Blazor(both Server-side and WebAssembly).
 
 ## Components
@@ -157,7 +157,7 @@ A list of UI components built with Ant Design.
 
 A list of mature apps built with Ant Design.
 
-* [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,189 | 🐛 451 | 🌐 JavaScript | 📅 2025-08-16 - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+* [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,192 | 🐛 451 | 🌐 JavaScript | 📅 2025-08-16 - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 * [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) ⭐ 248 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-25 - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 * [Eevee](https://github.com/pizn/eevee) ⭐ 174 | 🐛 5 | 🌐 JavaScript | 📅 2016-02-04 - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
@@ -165,7 +165,7 @@ A list of mature apps built with Ant Design.
 
 A list of starter projects and boilerplates built with Ant Design.
 
-* [Antd Admin](https://github.com/zuiidea/antd-admin) ⭐ 9,800 | 🐛 32 | 🌐 JavaScript | 📅 2025-05-29 - A admin dashboard application demo built upon Ant Design and Dva.js.
+* [Antd Admin](https://github.com/zuiidea/antd-admin) ⭐ 9,801 | 🐛 32 | 🌐 JavaScript | 📅 2025-05-29 - A admin dashboard application demo built upon Ant Design and Dva.js.
 * [Ng-Alain](https://github.com/cipchk/ng-alain) ⭐ 4,536 | 🐛 34 | 🌐 TypeScript | 📅 2026-02-01 - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 * [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) ⭐ 578 | 🐛 42 | 🌐 JavaScript | 📅 2023-03-04 - Use antd in create-react-app without ejecting
 * [React SPA](https://github.com/JasonBai007/reactSPA) ⭐ 513 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-27 - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
