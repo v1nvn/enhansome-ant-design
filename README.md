@@ -19,7 +19,7 @@
 
 > A curated list of [Ant Design](http://ant.design/) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,706 | 🐛 70 | 📅 2026-01-28
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,982 | 🐛 70 | 📅 2026-01-28
 [<img src="https://camo.githubusercontent.com/2f393ed1a4c6d222de314c16e0334301cae3fb7a/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e7376673f73616e6974697a653d74727565" align="right" width="160">](https://ant.design/)
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
@@ -66,8 +66,8 @@ Official projects and resources of Ant Design.
 
 These are tools and utilities to help build apps using Ant Design,
 
-* [Dva Cli](https://github.com/dvajs/dva-cli) ⭐ 965 | 🐛 67 | 🌐 JavaScript | 📅 2019-03-17 - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva) ⭐ 16,207 | 🐛 28 | 🌐 JavaScript | 📅 2025-08-06, a
-  lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo) ⭐ 6,769 | 🐛 45 | 🌐 JavaScript | 📅 2020-01-23.
+* [Dva Cli](https://github.com/dvajs/dva-cli) ⭐ 965 | 🐛 67 | 🌐 JavaScript | 📅 2019-03-17 - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva) ⭐ 16,208 | 🐛 28 | 🌐 JavaScript | 📅 2025-08-06, a
+  lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo) ⭐ 6,769 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20.
 * [Antd Init](https://github.com/ant-design/antd-init) ⚠️ Archived - Ant Design boilerplate generator (for demo only, use dva-cli).
 * [formik-antd](https://github.com/jannikbuschke/formik-antd) ⭐ 588 | 🐛 48 | 🌐 TypeScript | 📅 2024-11-11 - Declarative bindings for the popular form state management library Formik.
 * [vscode-antd-rush](https://github.com/fi3ework/vscode-antd-rush) ⭐ 124 | 🐛 9 | 🌐 TypeScript | 📅 2023-01-07 - Rush to Ant Design in VS Code
@@ -110,7 +110,7 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,146 | 🐛 827 | 🌐 TypeScript | 📅 2026-02-19 - Ant Design of Angular.
+* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,146 | 🐛 829 | 🌐 TypeScript | 📅 2026-02-20 - Ant Design of Angular.
 * [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) ⭐ 807 | 🐛 60 | 🌐 TypeScript | 📅 2024-08-09 - Ant Design Mobile of Angular
 * [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
@@ -129,7 +129,7 @@ Projects that are built with Vue.js and Ant Design.
 
 Projects that are built with Blazor WebAssembly and Ant Design.
 
-* [Blazorise](https://github.com/stsrki/Blazorise) ⭐ 3,511 | 🐛 201 | 🌐 C# | 📅 2026-02-19 - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
+* [Blazorise](https://github.com/stsrki/Blazorise) ⭐ 3,511 | 🐛 200 | 🌐 C# | 📅 2026-02-20 - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
 * [ant-design-blazor](https://github.com/ElderJames/ant-design-blazor) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2024-08-20 - Ant Design of Blazor(both Server-side and WebAssembly).
 
 ## Components
@@ -157,7 +157,7 @@ A list of UI components built with Ant Design.
 
 A list of mature apps built with Ant Design.
 
-* [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,199 | 🐛 451 | 🌐 JavaScript | 📅 2025-08-16 - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+* [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,202 | 🐛 454 | 🌐 JavaScript | 📅 2025-08-16 - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 * [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) ⭐ 248 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-25 - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 * [Eevee](https://github.com/pizn/eevee) ⭐ 174 | 🐛 5 | 🌐 JavaScript | 📅 2016-02-04 - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
