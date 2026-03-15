@@ -19,7 +19,7 @@
 
 > A curated list of [Ant Design](http://ant.design/) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,300 | 🐛 80 | 📅 2026-03-09
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,551 | 🐛 81 | 📅 2026-03-09
 [<img src="https://camo.githubusercontent.com/2f393ed1a4c6d222de314c16e0334301cae3fb7a/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e7376673f73616e6974697a653d74727565" align="right" width="160">](https://ant.design/)
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
@@ -99,7 +99,7 @@ Here are utilities that can help you customize your theme and ability to change 
 
 Ant Design family of projects.
 
-* [Ant Design X](https://github.com/ant-design/x) ⭐ 4,371 | 🐛 80 | 🌐 TypeScript | 📅 2026-03-13 - A React UI library @ant-design/x that Crafting AI-driven interfaces with React, seamlessly integrating smart chat components and API services at your fingertips.
+* [Ant Design X](https://github.com/ant-design/x) ⭐ 4,374 | 🐛 80 | 🌐 TypeScript | 📅 2026-03-13 - A React UI library @ant-design/x that Crafting AI-driven interfaces with React, seamlessly integrating smart chat components and API services at your fingertips.
 * [Ant Design Web3](https://github.com/ant-design/ant-design-web3) ⭐ 1,128 | 🐛 33 | 🌐 TypeScript | 📅 2026-03-10 - Efficient react components for building dapps easier | Connect crypto wallets and more Web3 UI components | Web3 icons | Supports Ethereum, Solana, Bitcoin, TON, Sui and others.
 * [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more](https://github.com/antvis/feedback) ⭐ 124 | 🐛 83 | 📅 2017-12-15).
 * [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more](https://github.com/antvis/feedback) ⭐ 124 | 🐛 83 | 📅 2017-12-15).
@@ -110,7 +110,7 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,152 | 🐛 824 | 🌐 TypeScript | 📅 2026-03-14 - Ant Design of Angular.
+* [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,153 | 🐛 824 | 🌐 TypeScript | 📅 2026-03-14 - Ant Design of Angular.
 * [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) ⭐ 807 | 🐛 60 | 🌐 TypeScript | 📅 2024-08-09 - Ant Design Mobile of Angular
 * [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
@@ -157,7 +157,7 @@ A list of UI components built with Ant Design.
 
 A list of mature apps built with Ant Design.
 
-* [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,246 | 🐛 454 | 🌐 JavaScript | 📅 2025-08-16 - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+* [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,248 | 🐛 454 | 🌐 JavaScript | 📅 2025-08-16 - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 * [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) ⭐ 248 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-25 - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 * [Eevee](https://github.com/pizn/eevee) ⭐ 174 | 🐛 5 | 🌐 JavaScript | 📅 2016-02-04 - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
@@ -165,13 +165,13 @@ A list of mature apps built with Ant Design.
 
 A list of starter projects and boilerplates built with Ant Design.
 
-* [Antd Admin](https://github.com/zuiidea/antd-admin) ⭐ 9,799 | 🐛 32 | 🌐 TypeScript | 📅 2026-03-13 - A admin dashboard application demo built upon Ant Design and Dva.js.
+* [Antd Admin](https://github.com/zuiidea/antd-admin) ⭐ 9,799 | 🐛 32 | 🌐 TypeScript | 📅 2026-03-14 - A admin dashboard application demo built upon Ant Design and Dva.js.
 * [Ng-Alain](https://github.com/cipchk/ng-alain) ⭐ 4,537 | 🐛 34 | 🌐 TypeScript | 📅 2026-03-04 - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 * [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) ⭐ 578 | 🐛 42 | 🌐 JavaScript | 📅 2023-03-04 - Use antd in create-react-app without ejecting
 * [React SPA](https://github.com/JasonBai007/reactSPA) ⭐ 513 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-27 - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
 * [Webbf](https://github.com/peterchenhdu/webbf) ⭐ 445 | 🐛 4 | 🌐 JavaScript | 📅 2018-09-17 - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 * [React Redux](https://github.com/Justin-lu/react-redux-antd) ⭐ 416 | 🐛 3 | 🌐 JavaScript | 📅 2024-08-01 - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-* [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) ⭐ 369 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-27 - a starter-template with typescript, react, mobx, antd and webpack).
+* [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) ⭐ 370 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-27 - a starter-template with typescript, react, mobx, antd and webpack).
 * [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) ⭐ 247 | 🐛 0 | 🌐 TypeScript | 📅 2022-11-10 - React, Recoil, React Query, React Hooks, Typescript, Axios.
 * [CL React](https://github.com/chenliang2016/CLReactAntDesign) ⭐ 175 | 🐛 3 | 🌐 JavaScript | 📅 2018-10-22 - Based on Ant Design front-end framework structures for enterprise back-office software.
 * [CRA-TS-Antd](https://github.com/comerc/cra-ts-antd) ⭐ 118 | 🐛 1 | 🌐 TypeScript | 📅 2017-12-16 - Create-React-App + TypeScript + Ant-Design (without Eject).
